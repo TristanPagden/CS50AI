@@ -1,1 +1,1 @@
-Here are the projects I built for Harvards CS50AI [course](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python) check out the projects in more detail on [my website](https://tristanpagden.vercel.app/posts)
+Here are the projects I built for Harvard's CS50AI [course](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python). Check out the projects in more detail on [my website](https://tristanpagden.vercel.app/posts)
